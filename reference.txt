@@ -33,3 +33,11 @@
 8. Phan Anh Tuan, Deputy Secretary of the Youth Union of the National Economics University, Hanoi.
 9. Mai Van Chuyen, head of the For Beloved Younger Siblings Club, teacher - overall in charge of the Ngô Mây Middle School Unit, Cu M'gar district, Dak Lak Province.
 10. Nguyen Thi Anh Tuyet, Head of the Women Veterans Club of Tan Binh District, Secretary of Cell 3, Ward 8, Tan Binh District, Ho Chi Minh City.
+
+---- 
+ Color Schemes
+ #E27D60
+ #85DCB0
+ #E8a87C
+ #C38D9E
+ #41B3A3
