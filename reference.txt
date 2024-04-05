@@ -1,0 +1,43 @@
+# Danh sách 10 cá nhân đoạt giải:
+
+1. Phạm Quốc Việt, đội trưởng Đội hỗ trợ sơ cứu FAS Angel
+
+2. Nguyễn Thị Hà, giáo viên Trường THPT Phan Đình Giót, thành phố Điện Biên Phủ, tỉnh Điện Biên
+
+3. Trà Thị Thu, giáo viên Trường phổ thông dân tộc bán trú tiểu học Trà Tập, xã Trà Tập, huyện Nam Trà My, tỉnh Quảng Nam
+
+4. Lê Tuấn Thành, công an xã H'Ra, huyện Mang Yang, tỉnh Gia Lai
+
+5. Nguyễn Trường Giang, chủ nhiệm Câu lạc bộ Chú Ve Xanh, tỉnh Cà Mau
+
+6. Nguyễn Đức Cường - ca sĩ Đen Vâu
+
+7. Phạm Thiên Trang, nhân viên Công ty TNHH MTV Môi trường - TKV, tỉnh Quảng Ninh
+
+8. Phan Anh Tuấn, Phó Bí thư Đoàn Trường đại học Kinh tế quốc dân, Hà Nội
+
+9. Mai Văn Chuyền, chủ nhiệm Câu lạc bộ Vì đàn em thân yêu, giáo viên - tổng phụ trách Đội Trường THCS Ngô Mây, huyện Cư M'gar, tỉnh Đắk Lắk
+
+10. Nguyễn Thị Ánh Tuyết, Chủ nhiệm CLB Nữ cựu chiến binh quận Tân Bình, Bí thư Chi bộ 3, Phường 8, quận Tân Bình, TPHCM
+
+
+----
+# English version:
+1. Pham Quoc Viet, team leader of the FAS Angel first aid support team.
+2. Nguyen Thi Ha, teacher at Phan Dinh Giot High School, Dien Bien Phu City, Dien Bien Province.
+3. Tra Thi Thu, teacher at Tra Tap ethnic boarding primary school, Tra Tap commune, Nam Tra My district, Quang Nam Province.
+4. Le Tuan Thanh, police officer of H'Ra commune, Mang Yang district, Gia Lai Province.
+5. Nguyen Truong Giang, head of the Green Cricket Club, Ca Mau Province.
+6. Nguyen Duc Cuong - singer Den Vau.
+7. Pham Thien Trang, employee of TKV Environment Joint Stock Company, Quang Ninh Province.
+8. Phan Anh Tuan, Deputy Secretary of the Youth Union of the National Economics University, Hanoi.
+9. Mai Van Chuyen, head of the For Beloved Younger Siblings Club, teacher - overall in charge of the Ngô Mây Middle School Unit, Cu M'gar district, Dak Lak Province.
+10. Nguyen Thi Anh Tuyet, Head of the Women Veterans Club of Tan Binh District, Secretary of Cell 3, Ward 8, Tan Binh District, Ho Chi Minh City.
+
+---- 
+ Color Schemes
+ #E27D60
+ #85DCB0
+ #E8a87C
+ #C38D9E
+ #41B3A3
